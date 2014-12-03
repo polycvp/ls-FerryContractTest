@@ -1,1 +1,13 @@
-/nbproject/private/
+*.class
+*.jar
+*.war
+*.png
+*.jpg
+*.jpeg
+build/
+lib/
+nbproject/build-native.xml
+nbproject/private/
+build.xml
+manifest.mf
+dist/
