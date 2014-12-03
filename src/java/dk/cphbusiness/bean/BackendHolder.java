@@ -28,6 +28,7 @@ import java.util.Collection;
  *
  * @author Paul
  */
+
 public class BackendHolder implements CustomerContract {
      private static BackendHolder singleton = new BackendHolder( );
      private CustomerContract ferryManager;
